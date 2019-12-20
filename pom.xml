@@ -16,7 +16,7 @@
   
 <distributionManagement>
        <repository>
-         <id>internal.repo</id>
+         <id>releases</id>
          <name>Internal repo</name>
          <!-- <url>file:///var/lib/jenkins/myartifacts/</url> --> 
          <url>http://15.206.157.27:8081/repository/maven-releases/</url>
